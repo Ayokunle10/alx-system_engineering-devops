@@ -20,4 +20,5 @@
 17. I hate bins- > Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 18. Letters only please- > Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 19. A to Z- > Replace all characters A and c from input to Z and e respectively.
+7. It is a good file that cuts iron without making a noise- > Write a shell script that creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 
