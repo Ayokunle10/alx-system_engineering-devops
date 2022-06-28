@@ -11,4 +11,5 @@
 10. Don't just count your directories, make your directories count- > Write a script that counts the number of directories and sub-directories in the current directory.
 22. DJ Cut Killer- > Write a script that displays all users and their home directories, sorted by users.
 21. esreveR- > Write a script that reverse its input.
+20. Without C, you would live in hiago- > Create a script that removes all letters c and C from input.
 
