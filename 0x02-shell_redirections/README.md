@@ -25,3 +25,4 @@
 26. The biggest fan- > Write a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
 24. A gif is worth ten thousand words- > Write a script that lists all the files with a .gif extension in the current directory and all its sub-directories.
 7. It is a good file that cuts iron without making a noise- >  a shell script that creates a file named exactly.
+23. Empty casks make the most noise- > Write a command that finds all empty files and directories in the current directory and all sub-directories.Write a command that finds all empty files and directories in the current directory and all sub-directories.
